@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zzmitzz
-- 👀 I’m interested in coding, playing piano, learning language
-- 🌱 I’m currently learning how to become the best programmer
+Eat, Code, Sleep full-time
+🎹 Piano, 🎼 Study part-time 
+
 
 <!---
 zzmitzz/zzmitzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
